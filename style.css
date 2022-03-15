@@ -1,0 +1,52 @@
+#textbox {
+
+    width: 300px;
+
+}
+
+#record_btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+
+body {
+    background-color: teal;
+    font-family: 'Cinzel', serif;
+    font-family: 'Fredoka', sans-serif;
+}
+
+.info {
+    color: yellow;
+}
+
+#footer {
+    margin-top: 200px;
+  
+}
+
+label  {
+    font-size: 16px;
+}
+
+p {
+    font-size: 16px;
+}
+
+#result1 {
+    display: inline-block;
+}
+
+#result2 {
+    display: inline-block;
+}
+
+#result3 {
+    display: inline-block;
+}
+
